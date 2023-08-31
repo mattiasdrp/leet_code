@@ -1,0 +1,9 @@
+(include_subdirs unqualified)
+
+(executable
+ (name main)
+ (public_name program))
+
+(env
+ (dev
+  (flags (:standard -warn-error -A))))

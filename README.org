@@ -1,0 +1,7 @@
+#+title: Leet Code answers in OCaml
+#+author: mattiasdrp
+#+language: english
+
+* Some [[https://leetcode.com/][leet code]] solutions in OCaml
+
+Hope they'll add OCaml and other functional languages to the list of their available languages, one day. Meanwhile, storing my solutions here.
